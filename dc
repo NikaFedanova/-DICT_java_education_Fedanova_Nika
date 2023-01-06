@@ -1,0 +1,27 @@
+[33mcommit 2aba17d3e2d0a116135540a4cc68d5d5eb4ef7af[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nika Fedanova <n.a.fedanova@student.khai.edu>
+Date:   Fri Jan 6 11:08:15 2023 +0100
+
+    Revert "HelloGit added"
+    
+    This reverts commit ca005c5c1844a7de44160657c6cb5cc5f6adf435.
+    
+            deleted:    src/main/java/org/example/HelloGit.java
+
+[33mcommit ca005c5c1844a7de44160657c6cb5cc5f6adf435[m
+Author: Nika Fedanova <n.a.fedanova@student.khai.edu>
+Date:   Fri Jan 6 11:07:35 2023 +0100
+
+    HelloGit added
+
+[33mcommit 6f72ea266ad7dfa9da93ff31547ef94aebafb300[m
+Author: Nika Fedanova <n.a.fedanova@student.khai.edu>
+Date:   Fri Jan 6 11:04:49 2023 +0100
+
+    HelloGit.java deleted
+
+[33mcommit a5cbbe32c01a1425516de36e779e63c910a85fd8[m
+Author: Nika Fedanova <n.a.fedanova@student.khai.edu>
+Date:   Fri Jan 6 11:01:53 2023 +0100
+
+    README added
