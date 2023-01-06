@@ -6,7 +6,12 @@
 
     <groupId>org.example</groupId>
     <artifactId>KhaiNika</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>untitled</module>
+        <module>src</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
